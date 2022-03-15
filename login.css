@@ -9,8 +9,7 @@
 }
 .login_form{
     margin: 25% 0;
-    box-shadow: rgb(82 82 82 / 71%) 7px 0px 15px -17px;
-    padding: 76px 30px;
+    box-shadow: 7px 0px 15px -17px rgb(82 82 82 / 71%);
     padding: 76px 30px;
     border-radius: 10px;
     background-color: rgb(233, 231, 231);
